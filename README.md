@@ -13,9 +13,27 @@ Dibangun sepenuhnya menggunakan **Kotlin** dan **Jetpack Compose** dengan desain
 
 ## 📱 Tampilan Aplikasi (Screenshots)
 
-| Input Data | Hasil Analisa | Dark Mode |
-|:---:|:---:|:---:|
-| <br> ![Input Screen](Screenshots/Input.png) | <br> ![Result Screen](Screenshots/Hasil1.png) | <br> ![Dark Mode](Screenshots/gelap.png) |
+<table align="center">
+  <tr>
+    <th>Input Data</th>
+    <th>Hasil Analisa</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshot/Input.png" width="220"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot/Hasil1.png" width="220"/><br>
+      <img src="Screenshot/Hasil2.png" width="220"/><br>
+      <img src="Screenshot/Hasil3.png" width="220"/><br>
+      <img src="Screenshot/Hasil4.png" width="220"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot/gelap.png" width="220"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
