@@ -15,9 +15,7 @@ Dibangun sepenuhnya menggunakan **Kotlin** dan **Jetpack Compose** dengan desain
 
 | Input Data | Hasil Analisa | Dark Mode |
 |:---:|:---:|:---:|
-| <br> ![Input Screen](path/to/screenshot1.png) | <br> ![Result Screen](path/to/screenshot2.png) | <br> ![Dark Mode](path/to/screenshot3.png) |
-
-*(Catatan: Ganti `path/to/screenshot.png` dengan lokasi gambar screenshot Anda)*
+| <br> ![Input Screen](Screenshots/Input.png) | <br> ![Result Screen](Screenshots/Hasil1.png) | <br> ![Dark Mode](Screenshots/gelap.png) |
 
 ---
 
